@@ -11,4 +11,16 @@
 4. run "node index" to run project
 5. visit http://localhost:3000/ in the browser
 
+#### Run Test Steps :-
+
+Run below command:-
+
+\>npm install -save-dev jest
+
+\>npm i -save-dev enzyme
+
+\>npm install
+
+\>npm run test
+
 ![alt text](./screenshots/Capture.PNG)
