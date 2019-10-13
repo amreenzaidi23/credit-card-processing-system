@@ -23,6 +23,6 @@ Run below command:-
 
 \>npm run test
 
-##Screenshots :-
+## Screenshots :-
 
 ![alt text](./screenshots/Capture.PNG)
