@@ -17,6 +17,7 @@ Navigate to "credit-card-processing-system" and open the folder in VisualStudioC
 
 \>Alternatively, you can use node index.js YOUR_PORT_NUMBER to start the server with a specific port.
 
+
 #### Run Test Steps :-
 
 Run below command:-
@@ -28,6 +29,15 @@ Run below command:-
 \>npm install
 
 \>npm run test
+
+
+Sample valid Credit Card data:
+
+Credit             Card	Sample Number
+Visa	             4111111111111111
+MasterCard	       5500000000000004
+American Express   340000000000009
+Diner's Club	     30000000000004
 
 ## Screenshots :-
 
