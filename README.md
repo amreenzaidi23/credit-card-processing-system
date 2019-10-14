@@ -31,7 +31,7 @@ Run below command:-
 \>npm run test
 
 
-## Sample valid Credit Card data:-
+### Sample valid Credit Card data:-
 
 Visa	             4111111111111111
 
