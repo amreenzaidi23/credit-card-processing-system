@@ -4,12 +4,15 @@
 
 ### Steps :- 
 
-1. Clone or Download this repo
-2. Navigate to "credit-card-processing-system" and open the folder in VisualStudioCode
-3. run "npm install" to install all dependencies
-4. run "npm run buil" to build
-4. run "node index" to run project
-5. visit http://localhost:3000/ in the browser
+Clone or Download this repo
+Navigate to "credit-card-processing-system" and open the folder in VisualStudioCode
+
+run "npm install" to install all dependencies
+run "npm run build" 
+Now start the server with : node index.js
+
+visit http://localhost:3000/ in the browser
+Alternatively, you can use node index.js YOUR_PORT_NUMBER to start the server with a specific port.
 
 #### Run Test Steps :-
 
