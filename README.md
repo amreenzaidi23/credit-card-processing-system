@@ -26,3 +26,15 @@ Run below command:-
 ## Screenshots :-
 
 ![alt text](./screenshots/Capture.PNG)
+
+![alt text](./screenshots/Capture1.PNG)
+
+![alt text](./screenshots/Capture2.PNG)
+
+![alt text](./screenshots/Capture3.PNG)
+
+![alt text](./screenshots/Capture4.PNG)
+
+![alt text](./screenshots/Capture5.PNG)
+
+![alt text](./screenshots/Capture6.PNG)
