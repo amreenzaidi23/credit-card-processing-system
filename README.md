@@ -33,7 +33,6 @@ Run below command:-
 
 Sample valid Credit Card data:
 
-Credit             Card	Sample Number
 Visa	             4111111111111111
 
 MasterCard	       5500000000000004
